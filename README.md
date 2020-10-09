@@ -26,4 +26,4 @@ In this repository we will explain how to use markdown syntax.
 3. List4
 
 
-![Github](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+![Github](https://raw.githubusercontent.com/mastan511/MarkdownSytanxes/main/india_icon.jpg)
