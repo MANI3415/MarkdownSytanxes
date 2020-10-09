@@ -41,4 +41,26 @@ In this repository we will explain how to use markdown syntax.
   <source src="http://techslides.com/demos/sample-videos/small.mp4" type="video/mp4">
 </video>
 
+```java
+
+public class AddTwoNumbers {
+
+   public static void main(String[] args) {
+        
+      int num1 = 5, num2 = 15, sum;
+      sum = num1 + num2;
+
+      System.out.println("Sum of these numbers: "+sum);
+   }
+}
+
+```
+
+s.No|Name
+----|-----
+1|mastan
+2|vali
+3|Lokesh
+4|Sai
+
 
